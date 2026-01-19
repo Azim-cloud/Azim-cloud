@@ -1,16 +1,11 @@
-## Hi there 👋
+Привет! Я Азимжон
+Обо мне:
+ Студент Московского преобразовательного техникума. 
+ Город: Москва.
+ Изучаю: Веб - разработку.
+ Цель: Нету.
 
-<!--
-**Azim-cloud/Azim-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Мои проекты:
+  У меня пока нету проекта.
+Контакты:
+  vt_a.m.sirozhov@mpt.ru
